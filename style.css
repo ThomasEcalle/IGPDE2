@@ -35,7 +35,9 @@ section h2, section h3, footer h3, nav a {
     font-family: 'Dayrom', serif;
     font-weight: normal;
     text-transform: uppercase;
+	color: red;
 }
+
 
 #bloc_page {
     width: 900px;
@@ -89,7 +91,7 @@ nav li {
 
 nav a {
     font-size: 1.3em;
-    color: #181818;
+    color: blue;
     padding-bottom: 3px;
     text-decoration: none;
 }
